@@ -1,0 +1,20 @@
+➤ Convert Pounds → Kilograms
+
+Enter a number (e.g., 150) in the Pounds (lbs) text box.
+
+Click “Convert lbs → kg”.
+
+The Kilograms (kg) field will display the result (e.g., 68.0389).
+
+➤ Convert Kilograms → Pounds
+
+Enter a number (e.g., 70) in the Kilograms (kg) text box.
+
+Click “Convert kg → lbs”.
+
+The Pounds (lbs) field will display the result (e.g., 154.3236).
+
+➤ Exit the Program
+
+Click “Exit Program” to close the GUI.
+You’ll be asked to confirm before exiting.
